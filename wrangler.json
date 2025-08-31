@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "d1-urban1",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "5b64fb34-06fc-4b6d-a082-0f8cab09a827",
+      "database_name": "d1-template-database"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
